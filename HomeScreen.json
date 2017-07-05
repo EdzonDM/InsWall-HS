@@ -4,6 +4,109 @@
   "encoding": "UTF-8",
   "personalizations": [
       
+       {
+      "author_name": "Edzon DM",
+      "personalization_id": "cust-00015",
+      "personalization_name": "Crystal",
+      "personalization_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/HS15.png",
+      "personalization_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/Preview/HS15Preview.jpg",
+      "personalization_description": "",
+      "resource_name_wallpaper": "InsWall",
+      "resource_name_icons": "Imagine",
+      "resource_name_launcher": "Nova Launcher",
+      "resource_name_widget": "Fox",
+      "resource_url_wallpaper": "",
+      "resource_url_icons": "https://play.google.com/store/apps/details?id=com.sipentil.imagine.icons",
+      "resource_url_launcher": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "resource_url_widget": "https://play.google.com/store/apps/details?id=com.bedefined.foxforzooper",
+      "resource_url_backup_nova": "https://drive.google.com/open?id=0B4OtgHLParQfVTBrRUxqbDJzbkE", 
+      "personalization_category": "Minimal",
+      "upload_date": "05 jul 2017",
+      "personalization_is_recent": "false",
+      "resource_launcher_is_customizable": "true",
+      "personalization_is_active": "true",
+      "personalization_tags": "tag1|tag2|tag3|etc",
+      "personalization_additional_notes": "",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },  
+      
+      
+       {
+      "author_name": "Edzon DM",
+      "personalization_id": "cust-00014",
+      "personalization_name": "BlackW",
+      "personalization_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/HS14.png",
+      "personalization_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/Preview/HS14Preview.jpg",
+      "personalization_description": "",
+      "resource_name_wallpaper": "InsWall",
+      "resource_name_icons": "Whicons",
+      "resource_name_launcher": "Nova Launcher",
+      "resource_name_widget": "Parrot",
+      "resource_url_wallpaper": "",
+      "resource_url_icons": "https://play.google.com/store/apps/details?id=com.whicons.iconpack",
+      "resource_url_launcher": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "resource_url_widget": "https://play.google.com/store/apps/details?id=com.bedefined.vintageforzooper",
+      "resource_url_backup_nova": "https://drive.google.com/open?id=0B4OtgHLParQfbU10RWlRdVhTWWs", 
+      "personalization_category": "Minimal",
+      "upload_date": "05 jul 2017",
+      "personalization_is_recent": "false",
+      "resource_launcher_is_customizable": "true",
+      "personalization_is_active": "true",
+      "personalization_tags": "tag1|tag2|tag3|etc",
+      "personalization_additional_notes": "",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },  
+      
+      
+      
+      {
+      "author_name": "Edzon DM",
+      "personalization_id": "cust-00013",
+      "personalization_name": "Resplended",
+      "personalization_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/HS13.png",
+      "personalization_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/Preview/HS13Preview.jpg",
+      "personalization_description": "",
+      "resource_name_wallpaper": "InsWall",
+      "resource_name_icons": "Noizy",
+      "resource_name_launcher": "Nova Launcher",
+      "resource_name_widget": "PixUp",
+      "resource_url_wallpaper": "",
+      "resource_url_icons": "https://play.google.com/store/apps/details?id=pl.patrykgoworowski.noizyicons",
+      "resource_url_launcher": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "resource_url_widget": "https://play.google.com/store/apps/details?id=com.bedefined.mnmlui",
+      "resource_url_backup_nova": "https://drive.google.com/open?id=0B4OtgHLParQfSHZ0Q0FVbk42Vkk", 
+      "personalization_category": "Minimal",
+      "upload_date": "05 jul 2017",
+      "personalization_is_recent": "false",
+      "resource_launcher_is_customizable": "true",
+      "personalization_is_active": "true",
+      "personalization_tags": "tag1|tag2|tag3|etc",
+      "personalization_additional_notes": "",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
   
       
       {
