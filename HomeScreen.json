@@ -17,10 +17,10 @@
       "resource_name_launcher": "Nova Launcher",
       "resource_name_widget": "Stile",
       "resource_url_wallpaper": "",
-      "resource_url_icons": "",
+      "resource_url_icons": "https://play.google.com/store/apps/details?id=dark.unicorn.icons.ddt",
       "resource_url_launcher": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
-      "resource_url_widget": "",
-      "resource_url_backup_nova": "", 
+      "resource_url_widget": "https://play.google.com/store/apps/details?id=com.skeptic.zwskin.stileforzooper",
+      "resource_url_backup_nova": "https://drive.google.com/open?id=0B4OtgHLParQfbnVFc3pSREwyYms", 
       "personalization_category": "Anime",
       "upload_date": "07 jul 2017",
       "personalization_is_recent": "false",
@@ -45,10 +45,10 @@
       "resource_name_launcher": "Nova Launcher",
       "resource_name_widget": "Parrot",
       "resource_url_wallpaper": "",
-      "resource_url_icons": "",
+      "resource_url_icons": "https://play.google.com/store/apps/details?id=pl.patrykgoworowski.noizyicons",
       "resource_url_launcher": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
-      "resource_url_widget": "",
-      "resource_url_backup_nova": "", 
+      "resource_url_widget": "https://play.google.com/store/apps/details?id=com.bedefined.vintageforzooper",
+      "resource_url_backup_nova": "https://drive.google.com/open?id=0B4OtgHLParQfZHF3dWR6ZjNYcFk", 
       "personalization_category": "Urban",
       "upload_date": "07 jul 2017",
       "personalization_is_recent": "false",
@@ -76,7 +76,7 @@
       "resource_url_icons": "https://play.google.com/store/apps/details?id=yr.zeph.whirls",
       "resource_url_launcher": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
       "resource_url_widget": "https://play.google.com/store/apps/details?id=com.bedefined.mnmlui",
-      "resource_url_backup_nova": "", 
+      "resource_url_backup_nova": "https://drive.google.com/open?id=0B4OtgHLParQfM2Y2ei1YeF9COHc", 
       "personalization_category": "Pokemon",
       "upload_date": "07 jul 2017",
       "personalization_is_recent": "false",
@@ -105,7 +105,7 @@
       "resource_url_icons": "https://play.google.com/store/apps/details?id=pl.patrykgoworowski.cornieicons",
       "resource_url_launcher": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
       "resource_url_widget": "https://play.google.com/store/apps/details?id=com.bedefined.foxforzooper",
-      "resource_url_backup_nova": "", 
+      "resource_url_backup_nova": "https://drive.google.com/open?id=0B4OtgHLParQfQWdWWjJnMEZhenM", 
       "personalization_category": "Girl",
       "upload_date": "07 jul 2017",
       "personalization_is_recent": "false",
@@ -134,8 +134,8 @@
       "resource_url_icons": "https://play.google.com/store/apps/details?id=com.skykonig.acornicons",
       "resource_url_launcher": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
       "resource_url_widget": "https://play.google.com/store/apps/details?id=com.bedefined.mnmlui",
-      "resource_url_backup_nova": "", 
-      "personalization_category": "Car",
+      "resource_url_backup_nova": "https://drive.google.com/open?id=0B4OtgHLParQfeDVJODVkYllMbm8", 
+      "personalization_category": "Cars",
       "upload_date": "06 jul 2017",
       "personalization_is_recent": "false",
       "resource_launcher_is_customizable": "true",
@@ -147,14 +147,8 @@
       "author_description": ""
     },    
       
-      
-      
- 
-      
-      
-      
- 
-       {
+
+     {
       "author_name": "Edzon DM",
       "personalization_id": "cust-00015",
       "personalization_name": "Crystal",
