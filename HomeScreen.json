@@ -5,6 +5,69 @@
   "personalizations": [
       
       
+      
+      
+       {
+      "author_name": "Edzon DM",
+      "personalization_id": "cust-00024",
+      "personalization_name": "Astrocolor",
+      "personalization_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/HS24.png",
+      "personalization_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/Preview/HS24Preview.jpg",
+      "personalization_description": "",
+      "resource_name_wallpaper": "InsWall",
+      "resource_name_icons": "Unicorn Dark",
+      "resource_name_launcher": "Nova",
+      "resource_name_widget": "By Edzon DM",
+      "resource_url_wallpaper": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Astrocolor.png",
+      "resource_url_icons": "https://play.google.com/store/apps/details?id=dark.unicorn.icons.ddt",
+      "resource_url_launcher": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "resource_url_widget": "https://1drv.ms/u/s!AtywzEK2rwTniFWFdRD_TP1lTOYZ",     
+      "resource_url_backup_nova": "https://1drv.ms/u/s!AtywzEK2rwTniFH29MxCqQRc-N8f",     
+      "personalization_category": "Colors",
+      "upload_date": "04 ago 2017",
+      "personalization_is_recent": "true",
+      "resource_launcher_is_customizable": "true",
+      "personalization_is_active": "true",
+      "personalization_tags": "tag1|tag2|tag3|etc",
+      "personalization_additional_notes": "",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },      
+      
+      {
+      "author_name": "Edzon DM",
+      "personalization_id": "cust-00023",
+      "personalization_name": "Dark",
+      "personalization_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/HS23.png",
+      "personalization_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/Preview/HS23Preview.jpg",
+      "personalization_description": "",
+      "resource_name_wallpaper": "InsWall",
+      "resource_name_icons": "DPX Icon",
+      "resource_name_launcher": "Nova",
+      "resource_name_widget": "By Edzon DM",
+      "resource_url_wallpaper": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled0.png",
+      "resource_url_icons": "https://play.google.com/store/apps/details?id=com.eatos.uxpx",
+      "resource_url_launcher": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "resource_url_widget": "https://1drv.ms/u/s!AtywzEK2rwTniFTMIig4-KXri8Nn",     
+      "resource_url_backup_nova": "https://1drv.ms/u/s!AtywzEK2rwTniFKYV_xZ62LHQ6Sm",     
+      "personalization_category": "Amoled",
+      "upload_date": "04 ago 2017",
+      "personalization_is_recent": "true",
+      "resource_launcher_is_customizable": "true",
+      "personalization_is_active": "true",
+      "personalization_tags": "tag1|tag2|tag3|etc",
+      "personalization_additional_notes": "",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },   
+      
+      
+      
+            
+      
+      
        {
       "author_name": "Edzon DM",
       "personalization_id": "cust-00022",
