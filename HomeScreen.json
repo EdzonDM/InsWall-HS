@@ -25,7 +25,7 @@
       "resource_url_backup_nova": "https://1drv.ms/u/s!AtywzEK2rwTniFH29MxCqQRc-N8f",     
       "personalization_category": "Colors",
       "upload_date": "04 ago 2017",
-      "personalization_is_recent": "true",
+      "personalization_is_recent": "false",
       "resource_launcher_is_customizable": "true",
       "personalization_is_active": "true",
       "personalization_tags": "tag1|tag2|tag3|etc",
@@ -53,7 +53,7 @@
       "resource_url_backup_nova": "https://1drv.ms/u/s!AtywzEK2rwTniFKYV_xZ62LHQ6Sm",     
       "personalization_category": "Amoled",
       "upload_date": "04 ago 2017",
-      "personalization_is_recent": "true",
+      "personalization_is_recent": "false",
       "resource_launcher_is_customizable": "true",
       "personalization_is_active": "true",
       "personalization_tags": "tag1|tag2|tag3|etc",
@@ -62,12 +62,7 @@
       "author_url_website": "",
       "author_description": ""
     },   
-      
-      
-      
-            
-      
-      
+
        {
       "author_name": "Edzon DM",
       "personalization_id": "cust-00022",
