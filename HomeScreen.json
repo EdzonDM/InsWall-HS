@@ -4,6 +4,22 @@
   "encoding": "UTF-8",
   "personalizations": [
       
+      
+      
+
+      
+    
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
      {
       "author_name": "Edzon DM",
       "personalization_id": "cust-00028",
@@ -22,7 +38,7 @@
       "resource_url_backup_nova": "https://1drv.ms/u/s!AtywzEK2rwTniGI_VZbegLH6DLX_",     
       "personalization_category": "Amoled",
       "upload_date": "28 aug 2017",
-      "personalization_is_recent": "true",
+      "personalization_is_recent": "false",
       "resource_launcher_is_customizable": "true",
       "personalization_is_active": "true",
       "personalization_tags": "tag1|tag2|tag3|etc",
@@ -50,7 +66,7 @@
       "resource_url_backup_nova": "https://1drv.ms/u/s!AtywzEK2rwTniGGLznAip9Ra3tug",     
       "personalization_category": "Gradient",
       "upload_date": "28 aug 2017",
-      "personalization_is_recent": "true",
+      "personalization_is_recent": "false",
       "resource_launcher_is_customizable": "true",
       "personalization_is_active": "true",
       "personalization_tags": "tag1|tag2|tag3|etc",
@@ -60,11 +76,7 @@
       "author_description": ""
     }, 
       
-      
-      
-      
-      
-      
+
     {
       "author_name": "Edzon DM",
       "personalization_id": "cust-00026",
