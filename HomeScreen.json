@@ -5,6 +5,67 @@
   "personalizations": [
       
       
+    {
+      "author_name": "Edzon DM",
+      "personalization_id": "cust-00032",
+      "personalization_name": "Natural Crystal",
+      "personalization_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/HS32.png",
+      "personalization_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/Preview/HS32Preview.jpg",
+      "personalization_description": "",
+      "resource_name_wallpaper": "InsWall",
+      "resource_name_icons": "Mation",
+      "resource_name_launcher": "Nova",
+      "resource_name_widget": "Ghosty Zooper|Ghosty KWGT",
+      "resource_url_wallpaper": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall%20128.jpg",
+      "resource_url_icons": "https://play.google.com/store/apps/details?id=com.lknninex.mation",
+      "resource_url_launcher": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "resource_url_widget": "https://play.google.com/store/apps/details?id=com.inswall.ghosty|https://play.google.com/store/apps/details?id=com.inswall.ghosty.kwgt",     
+      "resource_url_backup_nova": "https://1drv.ms/u/s!AtywzEK2rwTniG7lSYT7PRGtIh8D",     
+      "personalization_category": "Natural",
+      "upload_date": "29 sep 2017",
+      "personalization_is_recent": "true",
+      "resource_launcher_is_customizable": "true",
+      "personalization_is_active": "true",
+      "personalization_tags": "tag1|tag2|tag3|etc",
+      "personalization_additional_notes": "",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },      
+      
+      {
+      "author_name": "Edzon DM",
+      "personalization_id": "cust-00031",
+      "personalization_name": "Jelly",
+      "personalization_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/HS31.png",
+      "personalization_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/Preview/HS31Preview.jpg",
+      "personalization_description": "",
+      "resource_name_wallpaper": "InsWall",
+      "resource_name_icons": "Circulus UI",
+      "resource_name_launcher": "Nova",
+      "resource_name_widget": "Ghosty Zooper|Ghosty KWGT",
+      "resource_url_wallpaper": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Wide/Jelly.png",
+      "resource_url_icons": "https://play.google.com/store/apps/details?id=com.benx9.circulusui",
+      "resource_url_launcher": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "resource_url_widget": "https://play.google.com/store/apps/details?id=com.inswall.ghosty|https://play.google.com/store/apps/details?id=com.inswall.ghosty.kwgt",     
+      "resource_url_backup_nova": "https://1drv.ms/u/s!AtywzEK2rwTniG8pGsBK0ty0lPKo",     
+      "personalization_category": "Minimal",
+      "upload_date": "29 sep 2017",
+      "personalization_is_recent": "true",
+      "resource_launcher_is_customizable": "true",
+      "personalization_is_active": "true",
+      "personalization_tags": "tag1|tag2|tag3|etc",
+      "personalization_additional_notes": "",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    }, 
+      
+      
+      
+      
+      
+      
       
    {
       "author_name": "Edzon DM",
@@ -24,7 +85,7 @@
       "resource_url_backup_nova": "https://1drv.ms/u/s!AtywzEK2rwTniGiI4fnCVQb5r_WN",     
       "personalization_category": "Minimal",
       "upload_date": "09 sep 2017",
-      "personalization_is_recent": "true",
+      "personalization_is_recent": "false",
       "resource_launcher_is_customizable": "true",
       "personalization_is_active": "true",
       "personalization_tags": "tag1|tag2|tag3|etc",
@@ -52,7 +113,7 @@
       "resource_url_backup_nova": "https://1drv.ms/u/s!AtywzEK2rwTniGkideJfw8qHlaIc",     
       "personalization_category": "Amoled",
       "upload_date": "09 sep 2017",
-      "personalization_is_recent": "true",
+      "personalization_is_recent": "false",
       "resource_launcher_is_customizable": "true",
       "personalization_is_active": "true",
       "personalization_tags": "tag1|tag2|tag3|etc",
@@ -61,14 +122,7 @@
       "author_url_website": "",
       "author_description": ""
     }, 
-      
-      
-      
-      
-      
-      
-      
-      
+ 
      {
       "author_name": "Edzon DM",
       "personalization_id": "cust-00028",
