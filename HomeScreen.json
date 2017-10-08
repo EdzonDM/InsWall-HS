@@ -350,6 +350,22 @@
     },      
       
  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+ 
      {
       "author_name": "Edzon DM",
       "personalization_id": "cust-00018",
@@ -406,6 +422,62 @@
       "author_description": ""
     },     
 
+      {
+      "author_name": "Edzon DM",
+      "personalization_id": "cust-00016",
+      "personalization_name": "Mew",
+      "personalization_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/HS16.png",
+      "personalization_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/Preview/HS16Preview.jpg",
+      "personalization_description": "",
+      "resource_name_wallpaper": "InsWall",
+      "resource_name_icons": "Whirls",
+      "resource_name_launcher": "Nova",
+      "resource_name_widget": "Mnml UI",
+      "resource_url_wallpaper": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Pokemon/Mew%20v1.jpg",
+      "resource_url_icons": "https://play.google.com/store/apps/details?id=yr.zeph.whirls",
+      "resource_url_launcher": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "resource_url_widget": "https://play.google.com/store/apps/details?id=com.bedefined.mnmlui",
+      "resource_url_backup_nova": "https://1drv.ms/u/s!AtywzEK2rwTniAVY6otZFwgz1ozu", 
+      "personalization_category": "Pokemon",
+      "upload_date": "18 jul 2017",
+      "personalization_is_recent": "false",
+      "resource_launcher_is_customizable": "true",
+      "personalization_is_active": "true",
+      "personalization_tags": "tag1|tag2|tag3|etc",
+      "personalization_additional_notes": "",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },    
+      
+       {
+      "author_name": "Edzon DM",
+      "personalization_id": "cust-00015",
+      "personalization_name": "Boros",
+      "personalization_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/HS15.png",
+      "personalization_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/Preview/HS15Preview.jpg",
+      "personalization_description": "",
+      "resource_name_wallpaper": "InsWall",
+      "resource_name_icons": "Unicorn Dark",
+      "resource_name_launcher": "Nova",
+      "resource_name_widget": "Mnml UI",
+      "resource_url_wallpaper": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled34.png",
+      "resource_url_icons": "https://play.google.com/store/apps/details?id=dark.unicorn.icons.ddt",
+      "resource_url_launcher": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "resource_url_widget": "https://play.google.com/store/apps/details?id=com.bedefined.mnmlui", 
+      "resource_url_backup_nova": "https://1drv.ms/u/s!AtywzEK2rwTnh3n_1yry_BeKMGwC",    
+      "personalization_category": "Amoled",
+      "upload_date": "18 jul 2017",
+      "personalization_is_recent": "false",
+      "resource_launcher_is_customizable": "true",
+      "personalization_is_active": "true",
+      "personalization_tags": "tag1|tag2|tag3|etc",
+      "personalization_additional_notes": "",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },     
+  
      {
       "author_name": "Edzon DM",
       "personalization_id": "cust-00014",
@@ -687,6 +759,122 @@
       "author_url_avatar": "",
       "author_url_website": "",
       "author_description": ""
+    },        
+      
+ 
+    {
+      "author_name": "Edzon DM",
+      "personalization_id": "cust-00004",
+      "personalization_name": "Captain America",
+      "personalization_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/HS4.png",
+      "personalization_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/Preview/HS4Preview.jpg",
+      "personalization_description": "",
+      "resource_name_wallpaper": "InsWall",
+      "resource_name_icons": "Glim",
+      "resource_name_launcher": "Nova",
+      "resource_name_widget": "Mnml UI",
+      "resource_url_wallpaper": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Heroes/Captain%20America.jpg",
+      "resource_url_icons": "https://play.google.com/store/apps/details?id=com.icons.glim",
+      "resource_url_launcher": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "resource_url_widget": "https://play.google.com/store/apps/details?id=com.bedefined.mnmlui",  
+      "resource_url_backup_nova": "https://1drv.ms/u/s!AtywzEK2rwTnh3zh7LK86ksd8E8M",  
+      "personalization_category": "Hero",
+      "upload_date": "18 jul 2017",
+      "personalization_is_recent": "false",
+      "resource_launcher_is_customizable": "true",
+      "personalization_is_active": "true",
+      "personalization_tags": "tag1|tag2|tag3|etc",
+      "personalization_additional_notes": "",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },        
+      
+    {
+      "author_name": "Edzon DM",
+      "personalization_id": "cust-00003",
+      "personalization_name": "Galaxy S8",
+      "personalization_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/HS3.png",
+      "personalization_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/Preview/HS3Preview.jpg",
+      "personalization_description": "",
+      "resource_name_wallpaper": "InsWall",
+      "resource_name_icons": "Aspire UX S8",
+      "resource_name_launcher": "Nova",
+      "resource_name_widget": "Trident",
+      "resource_url_wallpaper": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Dispositivos/GalaxyS8.png",
+      "resource_url_icons": "https://play.google.com/store/apps/details?id=com.aspireux.iconpack",
+      "resource_url_launcher": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "resource_url_widget": "https://play.google.com/store/apps/details?id=com.milandragovic.trident",    
+      "resource_url_backup_nova": "https://1drv.ms/u/s!AtywzEK2rwTniAF_ECXu3xzBE9Ty",  
+      "personalization_category": "Devices",
+      "upload_date": "18 jul 2017",
+      "personalization_is_recent": "false",
+      "resource_launcher_is_customizable": "true",
+      "personalization_is_active": "true",
+      "personalization_tags": "tag1|tag2|tag3|etc",
+      "personalization_additional_notes": "",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    }, 
+      
+     {
+      "author_name": "Edzon DM",
+      "personalization_id": "cust-00002",
+      "personalization_name": "Gradient Night",
+      "personalization_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/HS1.png",
+      "personalization_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/Preview/HS1Preview.jpg",
+      "personalization_description": "",
+      "resource_name_wallpaper": "InsWall",
+      "resource_name_icons": "Graby Spin",
+      "resource_name_launcher": "Nova",
+      "resource_name_widget": "Mnml UI",
+      "resource_url_wallpaper": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Minimal/Minimal%2077.jpg",
+      "resource_url_icons": "https://play.google.com/store/apps/details?id=com.anticor.grabyspin",
+      "resource_url_launcher": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "resource_url_widget": "https://play.google.com/store/apps/details?id=com.bedefined.mnmlui", 
+      "resource_url_backup_nova": "https://1drv.ms/u/s!AtywzEK2rwTniANPo5DB7DIz6xeR",  
+      "personalization_category": "Minimal",
+      "upload_date": "18 jul 2017",
+      "personalization_is_recent": "false",
+      "resource_launcher_is_customizable": "true",
+      "personalization_is_active": "true",
+      "personalization_tags": "tag1|tag2|tag3|etc",
+      "personalization_additional_notes": "",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },     
+      
+
+    {
+      "author_name": "Edzon DM",
+      "personalization_id": "cust-00001",
+      "personalization_name": "Wolpertinger",
+      "personalization_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/HS2.png",
+      "personalization_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/Preview/HS2Preview.jpg",
+      "personalization_description": "",
+      "resource_name_wallpaper": "InsWall",
+      "resource_name_icons": "No Icons",
+      "resource_name_launcher": "Nova",
+      "resource_name_widget": "Mnml UI",
+      "resource_url_wallpaper": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/Wolpertinger.png",
+      "resource_url_icons": "",
+      "resource_url_launcher": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "resource_url_widget": "https://play.google.com/store/apps/details?id=com.bedefined.mnmlui", 
+      "resource_url_backup_nova": "https://1drv.ms/u/s!AtywzEK2rwTniA5XyrZLgw6dFFOf",   
+      "personalization_category": "Minimal",
+      "upload_date": "18 jul 2017",
+      "personalization_is_recent": "false",
+      "resource_launcher_is_customizable": "true",
+      "personalization_is_active": "true",
+      "personalization_tags": "tag1|tag2|tag3|etc",
+      "personalization_additional_notes": "",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
     }
+
+      
   ]
 }
