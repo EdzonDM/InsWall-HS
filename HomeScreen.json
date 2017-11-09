@@ -8,6 +8,73 @@
       
     {
       "author_name": "Edzon DM",
+      "personalization_id": "cust-00036",
+      "personalization_name": "Enchanted Flower",
+      "personalization_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/HS36.png",
+      "personalization_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/Preview/HS36Preview.jpg",
+      "personalization_description": "",
+      "resource_name_wallpaper": "InsWall",
+      "resource_name_icons": "Cosmicons",
+      "resource_name_launcher": "Nova",
+      "resource_name_widget": "Frosbit Zooper",
+      "resource_url_wallpaper": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Wall516.jpg",
+      "resource_url_icons": "https://play.google.com/store/apps/details?id=com.lumiq.cosmicons",
+      "resource_url_launcher": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "resource_url_widget": "https://play.google.com/store/apps/details?id=com.edzondm.frosbit",     
+      "resource_url_backup_nova": "https://1drv.ms/u/s!AtywzEK2rwTniREaiyPr7RMcHdz3",     
+      "personalization_category": "Amoled",
+      "upload_date": "09 nov. 2017",
+      "personalization_is_recent": "true",
+      "resource_launcher_is_customizable": "true",
+      "personalization_is_active": "true",
+      "personalization_tags": "tag1|tag2|tag3|etc",
+      "personalization_additional_notes": "",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },      
+      
+      {
+      "author_name": "Edzon DM",
+      "personalization_id": "cust-00035",
+      "personalization_name": "Colored Lines",
+      "personalization_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/HS35.png",
+      "personalization_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/Preview/HS35Preview.jpg",
+      "personalization_description": "",
+      "resource_name_wallpaper": "InsWall",
+      "resource_name_icons": "Two Pixel",
+      "resource_name_launcher": "Nova",
+      "resource_name_widget": "Frosbit Zooper",
+      "resource_url_wallpaper": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled49.jpg",
+      "resource_url_icons": "https://play.google.com/store/apps/details?id=com.mowmo.twopixel",
+      "resource_url_launcher": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "resource_url_widget": "https://play.google.com/store/apps/details?id=com.edzondm.frosbit",     
+      "resource_url_backup_nova": "https://1drv.ms/u/s!AtywzEK2rwTniRL_D2kutyAvkHhz",     
+      "personalization_category": "Plant",
+      "upload_date": "09 nov. 2017",
+      "personalization_is_recent": "true",
+      "resource_launcher_is_customizable": "true",
+      "personalization_is_active": "true",
+      "personalization_tags": "tag1|tag2|tag3|etc",
+      "personalization_additional_notes": "",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    }, 
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    {
+      "author_name": "Edzon DM",
       "personalization_id": "cust-00034",
       "personalization_name": "Pumpkin",
       "personalization_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/HS34.png",
@@ -24,7 +91,7 @@
       "resource_url_backup_nova": "https://1drv.ms/u/s!AtywzEK2rwTniQHIbbJPjeGVNHPP",     
       "personalization_category": "Amoled",
       "upload_date": "29 oct. 2017",
-      "personalization_is_recent": "true",
+      "personalization_is_recent": "false",
       "resource_launcher_is_customizable": "true",
       "personalization_is_active": "true",
       "personalization_tags": "tag1|tag2|tag3|etc",
@@ -52,7 +119,7 @@
       "resource_url_backup_nova": "https://1drv.ms/u/s!AtywzEK2rwTniQIlvy9KhfrPIQsT",     
       "personalization_category": "Minimal",
       "upload_date": "29 oct. 2017",
-      "personalization_is_recent": "true",
+      "personalization_is_recent": "false",
       "resource_launcher_is_customizable": "true",
       "personalization_is_active": "true",
       "personalization_tags": "tag1|tag2|tag3|etc",
@@ -60,13 +127,7 @@
       "author_url_avatar": "",
       "author_url_website": "",
       "author_description": ""
-    }, 
-      
-      
-      
-      
-      
-      
+    },       
       
       
     {
