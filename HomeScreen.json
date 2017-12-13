@@ -5,7 +5,62 @@
   "personalizations": [
       
       
-
+     {
+      "author_name": "Edzon DM",
+      "personalization_id": "cust-00040",
+      "personalization_name": "Girl Blur",
+      "personalization_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/HS40.png",
+      "personalization_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/Preview/HS40Preview.jpg",
+      "personalization_description": "",
+      "resource_name_wallpaper": "InsWall",
+      "resource_name_icons": "Delta",
+      "resource_name_launcher": "Nova",
+      "resource_name_widget": "Ghosty Zooper",
+      "resource_url_wallpaper": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Otros/GirlBlur.jpg",
+      "resource_url_icons": "https://play.google.com/store/apps/details?id=website.leifs.delta",
+      "resource_url_launcher": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "resource_url_widget": "https://play.google.com/store/apps/details?id=com.inswall.ghosty",     
+      "resource_url_backup_nova": "https://1drv.ms/u/s!AtywzEK2rwTniXxzvVD520GqE6IV",     
+      "personalization_category": "Others",
+      "upload_date": "12 dec. 2017",
+      "personalization_is_recent": "true",
+      "resource_launcher_is_customizable": "true",
+      "personalization_is_active": "true",
+      "personalization_tags": "tag1|tag2|tag3|etc",
+      "personalization_additional_notes": "",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },      
+      
+      {
+      "author_name": "Edzon DM",
+      "personalization_id": "cust-00039",
+      "personalization_name": "Living Circle",
+      "personalization_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/HS39.png",
+      "personalization_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/Preview/HS39Preview.jpg",
+      "personalization_description": "",
+      "resource_name_wallpaper": "InsWall",
+      "resource_name_icons": "Bold",
+      "resource_name_launcher": "Nova",
+      "resource_name_widget": "Frosbit KWGT",
+      "resource_url_wallpaper": "https://raw.githubusercontent.com/EdzonDM/InsWall-Walls/master/Colecciones/Amoled/Amoled11.jpg",
+      "resource_url_icons": "https://play.google.com/store/apps/details?id=com.bold.icons.flatedge.iconpack&hl",
+      "resource_url_launcher": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "resource_url_widget": "https://play.google.com/store/apps/details?id=com.edzondm.frosbit.kwgt",     
+      "resource_url_backup_nova": "https://1drv.ms/u/s!AtywzEK2rwTniX3v75ifyTXrPSUU",     
+      "personalization_category": "Amoled",
+      "upload_date": "12 dec. 2017",
+      "personalization_is_recent": "true",
+      "resource_launcher_is_customizable": "true",
+      "personalization_is_active": "true",
+      "personalization_tags": "tag1|tag2|tag3|etc",
+      "personalization_additional_notes": "",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    }, 
+      
       
       
       
