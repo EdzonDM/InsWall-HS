@@ -4,6 +4,65 @@
   "encoding": "UTF-8",
   "personalizations": [
       
+       {
+      "author_name": "Edzon DM",
+      "personalization_id": "cust-00042",
+      "personalization_name": "Sinester Plant 2",
+      "personalization_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/HS42.png",
+      "personalization_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/Preview/HS42Preview.jpg",
+      "personalization_description": "",
+      "resource_name_wallpaper": "InsWall",
+      "resource_name_icons": "Bixpic",
+      "resource_name_launcher": "Nova",
+      "resource_name_widget": "Gradfire KWGT",
+      "resource_url_wallpaper": "https://raw.githubusercontent.com/EdzonDM/Wall/master/Wall8.jpg",
+      "resource_url_icons": "https://play.google.com/store/apps/details?id=com.edzondm.bixpic",
+      "resource_url_launcher": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "resource_url_widget": "https://play.google.com/store/apps/details?id=com.edzondm.gradfire.kwgt",     
+      "resource_url_backup_nova": "https://1drv.ms/u/s!AtywzEK2rwTnihvNCgS5Aglu_tqx",     
+      "personalization_category": "Plant",
+      "upload_date": "20 feb. 2018",
+      "personalization_is_recent": "true",
+      "resource_launcher_is_customizable": "true",
+      "personalization_is_active": "true",
+      "personalization_tags": "tag1|tag2|tag3|etc",
+      "personalization_additional_notes": "",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    }, 
+       
+    {
+      "author_name": "Edzon DM",
+      "personalization_id": "cust-00041",
+      "personalization_name": "Skyscraper",
+      "personalization_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/HS41.png",
+      "personalization_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/Preview/HS41Preview.jpg",
+      "personalization_description": "",
+      "resource_name_wallpaper": "InsWall",
+      "resource_name_icons": "Bixpic",
+      "resource_name_launcher": "Nova",
+      "resource_name_widget": "Ghosty KWGT",
+      "resource_url_wallpaper": "https://raw.githubusercontent.com/EdzonDM/Wall/master/Wall2.png",
+      "resource_url_icons": "https://play.google.com/store/apps/details?id=com.edzondm.bixpic",
+      "resource_url_launcher": "https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher",
+      "resource_url_widget": "https://play.google.com/store/apps/details?id=com.inswall.ghosty.kwgt",     
+      "resource_url_backup_nova": "https://1drv.ms/u/s!AtywzEK2rwTnihoAD5pAvSykX5O7",     
+      "personalization_category": "Urban",
+      "upload_date": "20 feb. 2018",
+      "personalization_is_recent": "true",
+      "resource_launcher_is_customizable": "true",
+      "personalization_is_active": "true",
+      "personalization_tags": "tag1|tag2|tag3|etc",
+      "personalization_additional_notes": "",
+      "author_url_avatar": "",
+      "author_url_website": "",
+      "author_description": ""
+    },      
+           
+      
+      
+      
       
      {
       "author_name": "Edzon DM",
@@ -23,7 +82,7 @@
       "resource_url_backup_nova": "https://1drv.ms/u/s!AtywzEK2rwTnihlgo75F0opKPhOZ",     
       "personalization_category": "Minimal",
       "upload_date": "12 jan. 2018",
-      "personalization_is_recent": "true",
+      "personalization_is_recent": "false",
       "resource_launcher_is_customizable": "true",
       "personalization_is_active": "true",
       "personalization_tags": "tag1|tag2|tag3|etc",
@@ -51,7 +110,7 @@
       "resource_url_backup_nova": "https://1drv.ms/u/s!AtywzEK2rwTnihiUo3n4FFfpmMzx",     
       "personalization_category": "Minimal",
       "upload_date": "12 jan. 2018",
-      "personalization_is_recent": "true",
+      "personalization_is_recent": "false",
       "resource_launcher_is_customizable": "true",
       "personalization_is_active": "true",
       "personalization_tags": "tag1|tag2|tag3|etc",
@@ -60,12 +119,7 @@
       "author_url_website": "",
       "author_description": ""
     }, 
-      
-      
-      
-      
-      
-      
+
       
        {
       "author_name": "Edzon DM",
@@ -125,7 +179,7 @@
       
        {
       "author_name": "Edzon DM",
-      "personalization_id": "cust-00036",
+      "personalization_id": "cust-00038",
       "personalization_name": "Red Moon",
       "personalization_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/HS38.png",
       "personalization_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/Preview/HS38Preview.jpg",
@@ -153,7 +207,7 @@
       
       {
       "author_name": "Edzon DM",
-      "personalization_id": "cust-00035",
+      "personalization_id": "cust-00037",
       "personalization_name": "Polycolor",
       "personalization_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/HS37.png",
       "personalization_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/Preview/HS37Preview.jpg",
@@ -182,7 +236,7 @@
       
     {
       "author_name": "Edzon DM",
-      "personalization_id": "cust-00034",
+      "personalization_id": "cust-00036",
       "personalization_name": "Enchanted Flower",
       "personalization_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/HS36.png",
       "personalization_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/Preview/HS36Preview.jpg",
@@ -210,7 +264,7 @@
       
       {
       "author_name": "Edzon DM",
-      "personalization_id": "cust-00033",
+      "personalization_id": "cust-00035",
       "personalization_name": "Colored Lines",
       "personalization_url_source": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/HS35.png",
       "personalization_url_thumbnail": "https://raw.githubusercontent.com/EdzonDM/InsWall-HS/master/Preview/HS35Preview.jpg",
